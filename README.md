@@ -1,6 +1,3 @@
-# Carla-RSL
-Simulation datasets created based on CARLA
-
 # CARLA-RSL 数据集
 
 ## 数据集简介
